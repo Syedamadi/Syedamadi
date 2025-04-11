@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects related to multiomics DataAnalysis
-- 📫 How to reach me syedamadihasyeda@gmail.com
+- 📫 How to reach me syedamadihasyeda7676@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: life code!
 
