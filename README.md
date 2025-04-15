@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects related to multiomics DataAnalysis
 - 📫 How to reach me syedamadihasyeda7676@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: life code!
 
 <!---
 Syedamadi/Syedamadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
